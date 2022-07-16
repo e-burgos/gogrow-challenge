@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can see this project in [GoGrow Challenge](https://gogrow-challenge.netlify.app).
 
 ## Available Scripts
 
